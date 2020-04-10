@@ -17,3 +17,11 @@ body {
   padding-top: 30px;
   color: black;
 }
+#section-3 {
+  padding-top: 10vh;
+  color: white;
+  background-image: url("../img/s_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+}
