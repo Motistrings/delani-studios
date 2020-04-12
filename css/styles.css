@@ -25,3 +25,12 @@ body {
   background-size: cover;
   height: 50vh;
 }
+#design {
+  display: none;
+}
+#develop {
+  display: none;
+}
+#product {
+  display: none;
+}
