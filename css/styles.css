@@ -72,9 +72,6 @@ html {
   opacity: 1;
   cursor: pointer;
 }
-.textinsert {
-  background-color: transparent;
-}
 .form-control {
   background: transparent;
   color: whitesmoke;
@@ -86,4 +83,18 @@ html {
 #submit:hover {
   transition: 0.1s;
   color: white;
+}
+::placeholder {
+  color: white;
+}
+.textarea {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 1%;
+}
+.social-icons {
+  padding-top: 40px;
+}
+.footer-msg {
+  padding-bottom: 20px;
 }
