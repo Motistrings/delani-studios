@@ -1,6 +1,9 @@
 body {
   text-align: center;
 }
+* {
+  box-sizing: border-box;
+}
 #section-1 {
   background-image: url("../img/home.jpg");
   background-repeat: no-repeat;
@@ -46,6 +49,13 @@ html {
   background-size: cover;
   height: 50vh;
 }
+#section-5 {
+  padding-top: 50px;
+  background-image: url("../img/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+}
 #design {
   display: none;
 }
@@ -61,4 +71,19 @@ html {
 .overlay:hover {
   opacity: 1;
   cursor: pointer;
+}
+.textinsert {
+  background-color: transparent;
+}
+.form-control {
+  background: transparent;
+  color: whitesmoke;
+}
+#submit {
+  background-color: transparent;
+  margin-left: auto;
+}
+#submit:hover {
+  transition: 0.1s;
+  color: white;
 }
