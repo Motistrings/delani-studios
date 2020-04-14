@@ -10,6 +10,8 @@ It tells you all about **Delani** including allowing users to send their feedbac
 * Javascript
 * jQuery
 ##  Installation / Access
+Open this link on your browser`https://motistrings.github.io/delani-studios/`
+
 ## Contact Information
 >Please find me here:timgrand4929@gmail.com incase you need help or you wanna add something.
 ## License
