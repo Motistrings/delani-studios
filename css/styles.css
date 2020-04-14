@@ -4,6 +4,11 @@ body {
 * {
   box-sizing: border-box;
 }
+#about-us {
+  font-family: "Oleo Script", cursive;
+  font-size: large;
+}
+
 #section-1 {
   background-image: url("../img/home.jpg");
   background-repeat: no-repeat;
@@ -58,12 +63,18 @@ html {
 }
 #design {
   display: none;
+  font-family: "Oleo Script", cursive;
+  font-size: large;
 }
 #develop {
   display: none;
+  font-family: "Oleo Script", cursive;
+  font-size: large;
 }
 #product {
   display: none;
+  font-family: "Oleo Script", cursive;
+  font-size: large;
 }
 #section-4 {
   padding: 30px;
