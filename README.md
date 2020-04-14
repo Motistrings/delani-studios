@@ -13,4 +13,5 @@ It tells you all about **Delani** including allowing users to send their feedbac
 ## Contact Information
 >Please find me here:timgrand4929@gmail.com incase you need help or you wanna add something.
 ## License
-
+MIT License
+Copyright (c) 2020 Timothy Maina
