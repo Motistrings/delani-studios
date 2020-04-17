@@ -22,6 +22,7 @@ body {
   height: 120vh;
   padding-top: 210px;
   padding-bottom: 20px;
+  background-attachment: fixed;
 }
 html {
   scroll-behavior: smooth;
